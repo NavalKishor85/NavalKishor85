@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Naval Kishor</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">From the lab to the Code Editor. I'm a Physics postgraduate student exploring HTML, CSS, JavaScript, Python. Excited to contribute and learn from the community!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navalkishor85&label=Profile%20views&color=0e75b6&style=flat" alt="navalkishor85" /> </p>
 
